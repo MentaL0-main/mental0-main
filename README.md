@@ -16,11 +16,9 @@
 
  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000" />
 
- <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=FF0000" />
-
  <img src="https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=FF0000" />
-
- <img src="https://img.shields.io/badge/DirectX-000000?style=for-the-badge&logo=microsoft&logoColor=FF0000" />
+ <img src="https://img.shields.io/badge/SDL-000000?style=for-the-badge&logo=opengl&logoColor=FF0000" />
+ <img src="https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=opengl&logoColor=FF0000" />
 
 ### 🌐 Backend & Tools
 
