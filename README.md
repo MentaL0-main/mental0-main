@@ -2,15 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=C%2B%2B+DEVELOPER;GAME+DEVELOPER;BACKEND+ENGINEER;HIGH+LOAD+SYSTEMS" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
-</p>
 
 ## 🔴 Обо мне
 
 text
 - 💻 Специализируюсь на C++: от низкоуровневых систем до игровых движков.
-- 🕹️ Разрабатываю игры (UE / Custom Engines).
+- 🕹️ Разрабатываю игры (Custom Engines).
 - ⚙️ Проектирую высокопроизводительный Backend.
 - 🛠️ Люблю оптимизацию, алгоритмы и "железо".
 
