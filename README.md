@@ -39,7 +39,3 @@
 <a href="https://t.me/mewfl13" target="blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF0000" /></a>
 <a href="mailto:ВАШ_EMAIL" target="blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" /></a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
-</p>
