@@ -3,7 +3,7 @@
 </p>
 
 
-## 🔴 Обо мне
+## Обо мне
 - 💻 Специализируюсь на C++: от низкоуровневых систем до игровых движков.
 - 🕹️ Разрабатываю игры (Custom Engines).
 - ⚙️ Проектирую высокопроизводительный Backend.
@@ -19,7 +19,7 @@
  <img src="https://img.shields.io/badge/SDL2/3-000000?style=for-the-badge&logo=render&logoColor=FF0000" />
  <img src="https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=FF0000" />
 
-### 🌐 Backend & Tools
+### Backend & Tools
 
  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" />
 
@@ -31,7 +31,7 @@
 
  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000" />
 
-## 📬 Связь со мной
+## Связь со мной
 <p align="left">
 <a href="https://t.me/mewfl13" target="blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF0000" /></a>
 <a href="mailto:obilev0000@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" /></a>
