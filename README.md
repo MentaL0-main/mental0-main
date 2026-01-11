@@ -5,7 +5,6 @@
 
 ## 🔴 Обо мне
 
-text
 - 💻 Специализируюсь на C++: от низкоуровневых систем до игровых движков.
 - 🕹️ Разрабатываю игры (Custom Engines).
 - ⚙️ Проектирую высокопроизводительный Backend.
@@ -34,18 +33,6 @@ text
  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000" />
 
  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000" />
-
-## 📊 Статистика активности
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mental0-main&show_icons=true&theme=blood&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mental0-main&layout=compact&theme=blood&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000" alt="Top Langs" />
-</p>
-
-## 📈 Streak & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mental0-main&theme=highcontrast&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideLabels=FFFFFF" alt="GitHub Streak" />
-</p>
 
 ## 📬 Связь со мной
 <p align="left">
