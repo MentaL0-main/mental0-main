@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000" />
 
  <img src="https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=FF0000" />
- <img src="https://img.shields.io/badge/SDL-000000?style=for-the-badge&logo=sdl2&logoColor=FF0000" />
+ <img src="https://img.shields.io/badge/SDL2/3-000000?style=for-the-badge&logo=renderer&logoColor=FF0000" />
  <img src="https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=FF0000" />
 
 ### 🌐 Backend & Tools
