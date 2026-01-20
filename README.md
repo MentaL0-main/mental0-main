@@ -33,6 +33,6 @@
 
 ## Связь со мной
 <p align="left">
-<a href="https://t.me/mewfl13" target="blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF0000" /></a>
+<a href="https://t.me/miraly0" target="blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF0000" /></a>
 <a href="mailto:obilev0000@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" /></a>
 </p>
