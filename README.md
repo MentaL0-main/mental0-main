@@ -8,7 +8,7 @@
 
 ### Core Stack
 <img src="https://img.shields.io/badge/C%2B%2B20-000000?style=for-the-badge&logo=cplusplus&logoColor=FF0000" />
-<img src="https://img.shields.io/badge/SDL2-000000?style=for-the-badge&logo=sdl&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/SDL3-000000?style=for-the-badge&logo=sdl2&logoColor=FF0000" />
 <img src="https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=FF0000" />
 <img src="https://img.shields.io/badge/Boost.Asio-000000?style=for-the-badge&logo=cplusplus&logoColor=FF0000" />
 
