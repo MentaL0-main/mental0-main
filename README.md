@@ -6,7 +6,7 @@
 
 **Custom Game Engines • Networked Games • Backend**
 
-### Core Stack
+### Core Stack -
 <img src="https://img.shields.io/badge/C%2B%2B20-000000?style=for-the-badge&logo=cpluspl3us&logoColor=FF0000" />
 <img src="https://img.shields.io/badge/SDL-000000?style=for-the-badge&logo=sdl4&logoColor=FF0000" />
 <img src="https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=ope43ngl&logoColor=FF0000" />
