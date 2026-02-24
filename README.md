@@ -7,7 +7,6 @@
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <picture>
-<a href="https://github.com/Deri-Kurniawan.png" alt="Developer">
 <img src="https://images.weserv.nl/?url=https://github.com/Deri-Kurniawan.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
 </a>
 </picture>
@@ -67,8 +66,8 @@ JavaScript     12 mins             ██████░░░░░░░░░
 </div>
 
 <p align="center">
-<a href="https://skillicons.dev/icons?i=c,cpp,assembly,js,nodejs,mysql,git,vscode,vim,clang,linux,cloudflare&perline=6">
-<img src="https://skillicons.dev/icons?i=c,cpp,assembly,js,nodejs,mysql,git,vscode,vim,clang,linux,cloudflare&perline=6" />
+<a href="https://skillicons.dev/icons?i=c,cpp,asm,js,nodejs,mysql,git,vscode,vim,clang,linux,cloudflare&perline=6">
+<img src="https://skillicons.dev/icons?i=c,cpp,asm,js,nodejs,mysql,git,vscode,vim,clang,linux,cloudflare&perline=6" />
 </a>
 </p>
 
