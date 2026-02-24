@@ -66,8 +66,8 @@ JavaScript     12 mins             ██████░░░░░░░░░
 </div>
 
 <p align="center">
-<a href="https://skillicons.dev/icons?i=c,cpp,bin,js,nodejs,mysql,git,vscode,vim,clang,linux,cloudflare&perline=6">
-<img src="https://skillicons.dev/icons?i=c,cpp,bin,js,nodejs,mysql,git,vscode,vim,clang,linux,cloudflare&perline=6" />
+<a href="https://skillicons.dev/icons?i=c,cpp,make,cmake,firefox,gnome,malware,js,nodejs,mysql,git,vscode,vim,clang,linux,cloudflare&perline=6">
+<img src="https://skillicons.dev/icons?i=c,cpp,make,cmake,firefox,gnome,malware,js,nodejs,mysql,git,vscode,vim,clang,linux,cloudflare&perline=6" />
 </a>
 </p>
 
