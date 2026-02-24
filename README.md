@@ -24,7 +24,7 @@ programmer.introduce();
 
 ```bash
 /home/miraly -> make run
-Hi, my name is Miraly Ruziev, I'm a Junior Malware and Low-Level Developer from Russia.
+Hi, my name is Miraly Ruziev, I\'m a Junior Malware and Low-Level Developer from Russia.
 ```
 
 <div align="center">
@@ -32,10 +32,10 @@ Hi, my name is Miraly Ruziev, I'm a Junior Malware and Low-Level Developer from 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1445 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+🌞 Morning                1445 commits        ███░░░░░░░░░░░░░░░░░░░░░░   5.46 % 
 🌆 Daytime                4780 commits        ██████████░░░░░░░░░░░░░░░   41.21 % 
-🌃 Evening                3939 commits        ██████████████░░░░░░░░░░░   33.96 % 
-🌙 Night                  1434 commits        ███████████████████░░░░░░   12.36 % 
+🌃 Evening                3939 commits        ██████████████░░░░░░░░░░░   56.96 % 
+🌙 Night                  1434 commits        ███████████████████░░░░░░   74.36 % 
 ```
 
 
