@@ -2,14 +2,6 @@
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
-<div align="center">
-  
-![Banner](/assets/images/banner.png)
-
-![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
-
-</div>
-
 <!--x axis divider-->
 
 ![](/assets/images/horizontal-divider-gradient.gif)
@@ -99,8 +91,8 @@ JavaScript     12 mins             ██████░░░░░░░░░
 
 <!-- use https://skillicons-picker.derikn.com -->
 <p align="center">
-<a href="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<a href="https://skillicons.dev/icons?i=c,cpp,js,nodejs,mysql,planetscale,git,vscode,vim,clang,linux,vite,cloudflare,prisma&perline=6">
+<img src="https://skillicons.dev/icons?i=js,c,cpp,,nodejs,mysql,planetscale,git,vscode,vim,clang,linux,vite,cloudflare,prisma&perline=6" />
 </a>
 </p>
 
@@ -130,20 +122,10 @@ JavaScript     12 mins             ██████░░░░░░░░░
 
 <!--x axis divider-->
 
-<!-- ![](/assets/images/horizontal-divider-gradient.gif) -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
-</picture>
-
-<!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <div align="center">
-    Made with ❤️ by <a href="https://io" target="_blank">Miraly Ruziev</a>
+    Made with XD by <a href="https://mental0-main.github.io" target="_blank">Miraly Ruziev</a>
 </div>
 
 <!--x axis divider-->
