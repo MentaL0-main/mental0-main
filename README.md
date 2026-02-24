@@ -1,8 +1,5 @@
-<!--x axis divider-->
 
 ![](/assets/images/horizontal-divider-gradient.gif)
-
-<!--x axis divider-->
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
@@ -44,7 +41,8 @@ Hi, my name is Miraly Ruziev, I\'m a Junior Malware and Low-Level Developer from
 ```text
 🕑︎ Time Zone: Moskow/Europe
 
-💬 Programming Languages: 
+💬 Programming Languages:
+
 C              6 hrs 56 mins       ███████████████░░░░░░░░░░   74.91 % 
 C++            1 hr 9 mins         █████████████████████░░░░   88.85 % 
 Other          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   04.11 % 
