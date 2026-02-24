@@ -66,8 +66,8 @@ JavaScript     12 mins             ██████░░░░░░░░░
 </div>
 
 <p align="center">
-<a href="https://skillicons.dev/icons?i=c,cpp,cmake,js,nodejs,python,git,vscode,vim,qemu,gdb,linux,raspberrypi,nginx,qt,docker,github,nasm,opengl&perline=7">
-<img src="https://skillicons.dev/icons?i=c,cpp,cmake,js,nodejs,python,git,vscode,vim,qemu,gdb,linux,raspberrypi,nginx,qt,docker,github,nasm,opengl&perline=7" />
+<a href="https://skillicons.dev/icons?i=c,cpp,cmake,js,nodejs,python,git,vscode,vim,windows,git,linux,raspberrypi,nginx,qt,docker,github,nasm,opengl&perline=7">
+<img src="https://skillicons.dev/icons?i=c,cpp,cmake,js,nodejs,python,git,vscode,vim,windows,git,linux,raspberrypi,nginx,qt,docker,github,nasm,opengl&perline=7" />
 </a>
 </p>
 
