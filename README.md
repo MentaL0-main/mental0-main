@@ -66,11 +66,8 @@ JavaScript     12 mins             ██████░░░░░░░░░
 </a>
 </p>
 
-<!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
 
-<!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
@@ -79,18 +76,10 @@ JavaScript     12 mins             ██████░░░░░░░░░
 
 </div>
 
-<!--x axis divider-->
-
 ![](/assets/images/horizontal-divider-gradient.gif)
-
-<!-- Support me -->
-<!-- <h3 align="center">☕Support Me☕</h3> -->
 
 <div align="center">
   
-<!-- [![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.derikn.com/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.derikn.com/ko-fi) -->
-
-<!--x axis divider-->
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
@@ -98,6 +87,5 @@ JavaScript     12 mins             ██████░░░░░░░░░
     Made with XD by <a href="https://mental0-main.github.io" target="_blank">Miraly Ruziev</a>
 </div>
 
-<!--x axis divider-->
-
-![](/assets/images/horizontal-divider-gradient.gif)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=MentaL0-main&theme=github-compact)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=MentaL0-main&theme=github-dark-blue)
