@@ -23,7 +23,9 @@ Programmer programmer_ = {
   email: "obilev0000@gmail.com",
   telegram: "https://t.me/miraly0",
   junior: !!!false,
-}).introduce();
+}
+
+programmer.introduce();
 ```
 
 ```bash
@@ -33,21 +35,6 @@ Hi, my name is Miraly Ruziev, I'm a Junior Malware and Low-Level Developer from 
 
 <div align="center">
 
-<!--x axis divider-->
-
-![](/assets/images/horizontal-divider-gradient.gif)
-
-<h3 align="center">My Portfolio Projects</h3>
-
-<a href="https://mental0-main.github.io" alt="Miraly Portfolio">
-<img src="https://github.com/user-attachments/assets/5b8f8308-53dc-4e8a-8b58-5707529860e4" align="right">
-</a>
-
-<!--x axis divider-->
-
-![](/assets/images/horizontal-divider-gradient.gif)
-
-<!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
@@ -64,32 +51,21 @@ Hi, my name is Miraly Ruziev, I'm a Junior Malware and Low-Level Developer from 
 🕑︎ Time Zone: Moskow/Europe
 
 💬 Programming Languages: 
-C              6 hrs 56 mins       ███████████████░░░░░░░░░░   74.38 % 
-C++            1 hr 9 mins         █████████████████████░░░░   12.41 % 
-Other          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Assembly       15 mins             ███████░░░░░░░░░░░░░░░░░░   02.79 % 
-Python         12 mins             ████░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-JavaScript     12 mins             ██████░░░░░░░░░░░░░░░░░░░   02.23 % 
+C              6 hrs 56 mins       ███████████████░░░░░░░░░░   74.91 % 
+C++            1 hr 9 mins         █████████████████████░░░░   88.85 % 
+Other          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Assembly       15 mins             █████████░░░░░░░░░░░░░░░░   08.39 % 
+Python         12 mins             ████░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+JavaScript     12 mins             ██████░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
-
-
- Last Updated on 23-02-2026 18:07:18 UTC
-<!--END_SECTION:waka-->
-
 </div>
 
-<!--x axis divider-->
-
-![](/assets/images/horizontal-divider-gradient.gif)
-
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
   </ul>
 </div>
 
-<!-- use https://skillicons-picker.derikn.com -->
 <p align="center">
 <a href="https://skillicons.dev/icons?i=c,cpp,js,nodejs,mysql,planetscale,git,vscode,vim,clang,linux,vite,cloudflare,prisma&perline=6">
 <img src="https://skillicons.dev/icons?i=js,c,cpp,,nodejs,mysql,planetscale,git,vscode,vim,clang,linux,vite,cloudflare,prisma&perline=6" />
