@@ -43,10 +43,10 @@ Hi, my name is Miraly Ruziev, I\'m a Junior Malware and Low-Level Developer from
 
 💬 Programming Languages:
 
-C              6 hrs 56 mins       ███████████████░░░░░░░░░░   74.91 % 
-C++            1 hr 9 mins         █████████████████████░░░░   88.85 % 
-Other          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Assembly       15 mins             █████████░░░░░░░░░░░░░░░░   08.39 % 
+C              7 hrs 56 mins       ███████████████░░░░░░░░░░   74.91 % 
+C++            9 hr 36 mins        █████████████████████░░░░   88.85 % 
+Other          25 mins             ████░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Assembly       1  hr               █████████░░░░░░░░░░░░░░░░   08.39 % 
 Python         12 mins             ████░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 JavaScript     12 mins             ██████░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
