@@ -9,14 +9,17 @@
 #include "Russia/Programmer.hpp"
 
 Programmer programmer_ = {
-  name: "Miraly Ruziev",
-  title: "Malware and Low-Level developer",
-  email: "obilev0000@gmail.com",
-  telegram: "https://t.me/miraly0",
-  junior: !!!false,
+  .name = "Miraly Ruziev",
+  .title = "Malware and Low-Level developer",
+  .email = "obilev0000@gmail.com",
+  .telegram = "https://t.me/miraly0",
+  .junior = !!!false,
 }
 
-programmer.introduce();
+int main(int argc, char* argv[]) {
+  programmer_.introduce();
+  return 0;
+}
 ```
 
 ```bash
