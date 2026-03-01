@@ -89,6 +89,6 @@ JavaScript     12 mins             ██████░░░░░░░░░
 </div>
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=MentaL0-main&theme=github-compact)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=MentaL0-main&theme=github-dark-red)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=MentaL0-main&theme=github-dark-blue)
 
 
