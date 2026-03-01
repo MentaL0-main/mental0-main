@@ -87,8 +87,7 @@ JavaScript     12 mins             ██████░░░░░░░░░
 <div align="center">
     Made with XD by <a href="https://mental0-main.github.io" target="_blank">Miraly Ruziev</a>
 </div>
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=MentaL0-main&theme=github-compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=MentaL0-main&show_icons=true&hide_border=false&theme=github-compact)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=MentaL0-main&theme=github-dark-blue)
 
 
