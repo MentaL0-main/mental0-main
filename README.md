@@ -90,3 +90,13 @@ JavaScript     12 mins             ██████░░░░░░░░░
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=MentaL0-main&theme=github-compact)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=MentaL0-main&theme=github-dark-blue)
+
+<a href="https://github.com/MentaL0-main">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MentaL0-main&layout=compact&langs_count=8&theme=github-dark-blue" alt="MentaL0-main's Top Languages" />
+</a>
+
+<!-- GitHub Skyline -->
+<a href="https://github.com/MentaL0-main">
+<img align="center" src="https://github-profile-3dv1.vercel.app/api/waka?&theme=github-dark&hide_title=true&intro=false&card_width=600&area=true&pattern=Signal&xaxis=false&yaxis=false&month=12&year=2023&layout=compact&output=png&username=MentaL0-main" alt="MentaL0-main's Skyline" />
+</a>
+
